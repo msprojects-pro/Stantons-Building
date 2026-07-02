@@ -1,0 +1,6 @@
+{
+  "name": "Stantons Building & Landscaping",
+  "description": "Family run Building & Landscaping company based in South Yorkshire, UK. Covering all aspects of building and landscaping to help you achieve your dream garden and home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
